@@ -1,3 +1,5 @@
+# Polls Package for Django Framework
+
 =====
 Polls
 =====
